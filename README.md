@@ -43,10 +43,11 @@
       <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>🐧 <a href="https://github.com/maiaxi/wsl-dotfiles">wsl-dotfiles</a></h4>
-      <p>My personal WSL / Linux environment setup — shell, tooling and config in one place.</p>
-      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <h4>🎸 <a href="https://github.com/maiaxi/afina">afina</a></h4>
+      <p>Tuner and metronome for the macOS menu bar: MPM pitch detection with sub-cent accuracy, sample-accurate metronome, custom tunings and auto-updates via Sparkle.</p>
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
     </td>
   </tr>
   <tr>
