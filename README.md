@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/maiaxi">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=520&lines=Just+vibing+in+IST+%F0%9F%8E%93;Software+developer+from+Lisbon+%F0%9F%87%B5%F0%9F%87%B9;C+%E2%80%A2+Swift+%E2%80%A2+TypeScript+%E2%80%A2+Shell;Neovim+enjoyer+%E2%8C%A8%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=520&lines=Just+vibing+in+IST+%F0%9F%8E%93;Software+developer+from+Lisbon+%F0%9F%87%B5%F0%9F%87%B9;Rust+%E2%80%A2+C+%E2%80%A2+Swift+%E2%80%A2+TypeScript+%E2%80%A2+Shell;Neovim+enjoyer+%E2%8C%A8%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 ### 🧑‍💻 About me
 
 - 🎓 Studying / studied Computer Science at **IST** (Instituto Superior Técnico)
-- 🍎 Currently building a **native macOS IPTV player** with SwiftUI + libmpv
+- 🦀 Currently building **[Kafkalens](https://github.com/maiaxi/kafkalens)**, a fast native desktop viewer for Kafka topics (Rust core + SwiftUI)
 - ⚙️ I care way too much about my dotfiles and Neovim setup
 - 🌱 Always learning something new
 
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,swift,ts,js,bash,lua,neovim,linux,apple,git,docker,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,rust,swift,ts,js,bash,lua,neovim,linux,apple,git,docker,vscode&perline=12" />
   </a>
 </p>
 
@@ -35,8 +35,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📺 <a href="https://github.com/maiaxi/iptv-player">iptv-player</a></h4>
-      <p>Native IPTV player for macOS built with SwiftUI + libmpv, with Xtream Codes and M3U support.</p>
+      <h4>🔍 <a href="https://github.com/maiaxi/kafkalens">kafkalens</a></h4>
+      <p>Fast, native desktop viewer for Kafka topics: browse clusters, read, inspect and produce messages, safe by default. Rust core shared via UniFFI with a native macOS app.</p>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
       <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
       <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
